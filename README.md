@@ -7,7 +7,7 @@
 
 ### Description
 
-In this assessment I have tried to create a list of banners. If you click on the edit option a modal opens an edit form. After editing and saving the form the changes arre reflected in the list displayed on the screen
+In this assessment I have tried to create a list of banners. If you click on the edit option a modal opens an edit form. After editing and saving the form the changes arre reflected in the list displayed on the screen. Preview of the banner is available while you change the configurations of the banner.
 
 ### Tech Stack & External Packages
 * Next.js
@@ -33,7 +33,7 @@ npm run dev
 ```
 
 <br/>
-You can check out the project at this link (deployed) - <a href="https://k-rite-dnyaneshwar-kawade.vercel.app/"><strong>Grow Easy</strong></a>
+You can check out the project at this link (deployed) - <a href="https://groweasy-banners.vercel.app/"><strong>Grow Easy</strong></a>
 
 <br/>
 I hope to hear from you soon contact me
