@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Grow Easy Assessment
 
-## Getting Started
+<img src="public/screenshot-1.png"/>
+<br />
+<br />
+<img src="public/screenshot-2.png"/>
 
-First, run the development server:
+### Description
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+In this assessment I have tried to create a list of banners. If you click on the edit option a modal opens an edit form. After editing and saving the form the changes arre reflected in the list displayed on the screen
+
+### Tech Stack & External Packages
+* Next.js
+* Tailwind css
+* Lucide Icons
+
+## Installation
+Step I - clone this repository
+```
+git clone https://github.com/dnyaneshwar411/Grow-Easy-Frontend-Assessment.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Step II - move to the root directory of the project if not already at the location.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Step III - install node modules
+```
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Step IV - start the local server
+```
+npm run dev
+```
 
-## Learn More
+<br/>
+You can check out the project at this link (deployed) - <a href="https://k-rite-dnyaneshwar-kawade.vercel.app/"><strong>Grow Easy</strong></a>
 
-To learn more about Next.js, take a look at the following resources:
+<br/>
+I hope to hear from you soon contact me
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* Phone - <a href="tel: 9067183889"><strong>9067183889</strong></a>
+* Mail - <a href="mailto: dnyaneshwarpk20@gmail.com"><strong>dnyaneshwarpk20@gmail.com</strong></a>
